@@ -1,0 +1,4 @@
+# 计算工具：平摊账单
+- insert:
+    - id: dsh-calc-split-bill
+      name: "dsh-calc-split-bill"

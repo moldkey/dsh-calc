@@ -1,0 +1,4 @@
+# 计算工具：增值税
+- insert:
+    - id: dsh-calc-vat
+      name: "dsh-calc-vat"

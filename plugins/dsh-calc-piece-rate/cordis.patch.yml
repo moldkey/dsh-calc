@@ -1,0 +1,4 @@
+# 计算工具：计件工资
+- insert:
+    - id: dsh-calc-piece-rate
+      name: "dsh-calc-piece-rate"

@@ -1,0 +1,4 @@
+# 计算工具：余额递减折旧
+- insert:
+    - id: dsh-calc-depreciation-declining
+      name: "dsh-calc-depreciation-declining"

@@ -1,0 +1,4 @@
+# 计算工具：加班费
+- insert:
+    - id: dsh-calc-overtime-pay
+      name: "dsh-calc-overtime-pay"

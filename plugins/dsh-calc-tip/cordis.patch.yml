@@ -1,0 +1,4 @@
+# 计算工具：小费计算
+- insert:
+    - id: dsh-calc-tip
+      name: "dsh-calc-tip"

@@ -1,0 +1,4 @@
+# 计算工具：贷款月供
+- insert:
+    - id: dsh-calc-loan-payment
+      name: "dsh-calc-loan-payment"
